@@ -19,7 +19,7 @@ Select operation:
 3. Multiply
 4. Divide
 5. Average
-Enter choice (1,2,3,4,5): 5
+Select an operation from (1,2,3,4,5): 5
 Enter first number: 10
 Enter second number: 20
 Result: 15.0
