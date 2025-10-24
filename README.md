@@ -13,17 +13,17 @@ The project demonstrates the use of Python functions, conditional statements, an
 📊 Average Calculation
 
 🧩 Example Output-
-Select operation:
-1. Add
-2. Subtract
-3. Multiply
-4. Divide
-5. Average
-Select an operation from (1,2,3,4,5): 5
-Enter first number: 10
-Enter second number: 20
-Result: 15.0
+please select an operation: 
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Average 
 
+select an operation from 1,2,3,4,5 :5
+enter first number 10
+enter second number 20
+( 10 + 20 ) / 2 =  15.0  
 
 🧑‍💻 Author
 📧- kakunmishra24@gmail.com
